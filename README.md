@@ -21,3 +21,7 @@ sudo cp ./Avaliacao-P2-M7-2023-EC/frontend /var/www/html
 Aqui pessoal, os arquivos já estaram disponíveis na porta 80, não necessário redirecionar.
 
 > IMPORTANTE: Verificar as rotas e utilziar o seu próprio repositório com as modificações realizadas.
+
+# Relatório da prova
+Segue o [link](https://docs.google.com/document/d/1Qd2RWp6XjU82leSxHrZPTcZlCuJB-cRt6MRWa-I-fkY/edit?usp=sharing) das imagens que comprovando o que foi feito na AWS.
+Primeiro eu criei a instância do EC2 do front na prova. Foi selecionado o ubuntu como o sistema operacinal, todas as regras de trafego foram ligados, uma regra de entrada na parte de segurança foi adcionado para permitir connectar com qualquer lugar IPV4. Depois seguir todos os comandos acima no terminal do EC2.
